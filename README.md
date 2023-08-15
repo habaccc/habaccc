@@ -1,5 +1,4 @@
-### Hi there 👋
-![Jieon Jeong's github stats](https://github-readme-stats.vercel.app/api?username=habaccc&show_icons=true&theme=tokyonight)
+![Jieon Jeong's github stats](https://github-readme-stats.vercel.app/api?username=habaccc&show_icons=true&theme=solarized-light)
 
 <!--
 **habaccc/habaccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
