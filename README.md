@@ -1,4 +1,5 @@
-![Jieon Jeong's github stats](https://github-readme-stats.vercel.app/api?username=habaccc&show_icons=true&theme=solarized-light)
+<div align="center">
+  ![Jieon Jeong's github stats](https://github-readme-stats.vercel.app/api?username=habaccc&show_icons=true&theme=solarized-light)
 
 
 
@@ -16,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
