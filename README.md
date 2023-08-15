@@ -1,6 +1,6 @@
-<div align="center">![Jieon Jeong's github stats](https://github-readme-stats.vercel.app/api?username=habaccc&show_icons=true&theme=solarized-light)
+![Jieon Jeong's github stats](https://github-readme-stats.vercel.app/api?username=habaccc&show_icons=true&theme=solarized-light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habaccc&layout=compact&theme=solarized-light)
-</div>
+
 
 
 
