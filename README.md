@@ -5,20 +5,18 @@
 <!-- <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&text=Jieon%20Jeong&animation=fadeIn&fontColor=212a3e&fontSize=70" />
 </div> -->
-
-<div align="center">
-  <h1 style="font-weight: 700; font-size: 20px;"> Jieon Jeong </h1>
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Jieon%20Jeong&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 <!-- 자기소개 -->
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙆‍♀️ Introduction </h2>
+<div align="center">
+    <h2> 🙆‍♀️ Introduction </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         <li> backend developer
     </div>
 </div>
+<br>
 <!-- 기술 -->
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
+<div align="center">
+    <h2> 🛠️ Tech Stacks </h2>
     <div align="center">
       <!-- Language & Library -->
       <h6>Languages & Library</h6>
