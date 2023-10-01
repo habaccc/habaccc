@@ -6,6 +6,7 @@
     <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&text=Jieon%20Jeong&animation=fadeIn&fontColor=212a3e&fontSize=70" />
 </div> -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Jieon%20Jeong&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+
 <!-- 자기소개 -->
 <div align="center">
     <h2> 🙆‍♀️ Introduction </h2>
@@ -71,6 +72,11 @@
     </div>
 </div>
 <br />
+<div align="center">
+<a href="https://hits.seeyoufarm.com">
+	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhabaccc%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/>
+</a>
+</div>
 <!--<div align=center>
   
 ![Jieon Jeong's github stats](https://github-readme-stats.vercel.app/api?username=habaccc&show_icons=true&theme=solarized-light)
